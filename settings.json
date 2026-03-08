@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ricoiscool.aternos.me",
-    "port": 56559,
+    "ip": "BoardsKi.aternos.me:13345",
+    "port": 13345,
     "version": "1.21.1"
   },
   "position": {
