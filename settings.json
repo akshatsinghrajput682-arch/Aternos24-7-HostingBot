@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BoardsKi.aternos.me:13345",
+    "ip": "inanga.aternos.host:13345",
     "port": 13345,
     "version": "1.21.1"
   },
